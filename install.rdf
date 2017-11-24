@@ -272,13 +272,7 @@
 		<em:optionsURL>chrome://tabscope/content/prefs.xul</em:optionsURL>
 		<em:homepageURL>http://www.xuldev.org/tabscope/</em:homepageURL>
 		<em:multiprocessCompatible>true</em:multiprocessCompatible>
-		<em:targetApplication>
-			<Description>
-				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-				<em:minVersion>45.0</em:minVersion>
-				<em:maxVersion>51.0a1</em:maxVersion>
-			</Description>
-		</em:targetApplication>
+
 	</Description>
 
 </RDF>

@@ -2,7 +2,7 @@ const Cc = Components.classes;
 const Ci = Components.interfaces;
 
 var PrefsUI = {
-
+	
 	_beforeInit: true,
 
 	init: function() {
