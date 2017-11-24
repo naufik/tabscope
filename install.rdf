@@ -272,7 +272,6 @@
 		<em:optionsURL>chrome://tabscope/content/prefs.xul</em:optionsURL>
 		<em:homepageURL>http://www.xuldev.org/tabscope/</em:homepageURL>
 		<em:multiprocessCompatible>true</em:multiprocessCompatible>
-
 	</Description>
 
 </RDF>
